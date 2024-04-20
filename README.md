@@ -47,7 +47,7 @@ In our app, we had five main screens: Ingredient List, Recipe, Meal Information,
 
 Ingredient List
 
-Functionality: User can add/remove ingredients from their shopping list
+Functionality: User can add/remove ingredients from their ingredient list
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/201bcdfd-345c-4ae3-b620-f2b91cfdba30)
 
@@ -57,10 +57,20 @@ Functionality: Users can add recipes to their recipe list, and sort the list on 
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/dae9ba2f-9ebe-4ffc-9702-9b0bc848c408)
 
-Meal
+Meal Information
 
 Functionality: Users can enter meals/calories to generate intuitive graphs to visualize their meal data
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/29215aa3-4f7c-4b71-b0a2-ceef25d21168)
 
+Shopping List
 
+Functionality: Users can add/remove items from their shopping list
+
+![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/560e3edf-02f1-433c-bead-fad63012c576)
+
+User Info
+
+Functionality: Users can input information about their height, weight, and gender
+
+![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/acdc2280-b13e-42fe-adac-66dd218e1d93)
