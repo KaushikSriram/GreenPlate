@@ -74,3 +74,15 @@ User Info
 Functionality: Users can input information about their height, weight, and gender
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/acdc2280-b13e-42fe-adac-66dd218e1d93)
+
+Functionality
+
+[Insert Video Here]
+
+Conclusions and Reflections/Learning
+
+Looking back on this semester, we've come to appreciate the multitude of skills we've developed in such a short span. Before this term, none of us had any exposure to Android Studio or Firebase. However, as the semester unfolded, we grew increasingly confident in using these tools. Beyond just meeting the functional coding requirements outlined in the project specifications, we delved into various industry-relevant software development principles and design patterns, such as SOLID/GRASP and the Strategy pattern. As we look ahead to further education or our careers in the industry, we're assured of our ability to apply these learnings in meaningful ways.
+
+One of the most valuable aspects of this journey has been our collaborative experiences. While we've engaged in many group project-based courses and will continue to do so, this course stood out due to its similarity to real-world industry collaboration. We embraced Agile methodologies, crafted JIRA dashboards, and scheduled regular Scrum meetings, mirroring industry practices. We extend our gratitude to Dr. Nimisha Roy and the entire CS 2340 teaching team for their unwavering support throughout this semester!
+
+Collaborators: Kaushik Sriram, Nick Ginac, Ben Hellman, Abi Saravanakumar, Andrew Luo
