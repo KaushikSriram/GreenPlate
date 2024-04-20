@@ -13,6 +13,7 @@ User Case: If the user enters valid ingredient information and hits the submit b
 
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/2d0d74a8-8daa-4d63-940b-1b39ae846769)
+
 Figure 1. Existing user adds valid ingredient to pantry properly
 
 Design Class Diagram (DCD)
@@ -21,5 +22,6 @@ User Case: An existing Greenplate user logs into the app and attempts to add an 
 
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/d8134098-eeaa-4647-96f3-d462ffc34cb0)
+
 Figure 2. Diagram for all the classes required to add new ingredient/recipe
 
