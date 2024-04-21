@@ -47,31 +47,31 @@ In our app, we had five main screens: Ingredient List, Recipe, Meal Information,
 
 Ingredient List
 
-Functionality: User can add/remove ingredients from their ingredient list
+Functionality: This page displays the user's pantry inventory, allowing them to add, update, or remove ingredients as needed for meal preparation and shopping planning.
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/201bcdfd-345c-4ae3-b620-f2b91cfdba30)
 
 Recipe
 
-Functionality: Users can add recipes to their recipe list, and sort the list on the basis of Name and Calorie Total
+Functionality: Users can access and create recipes here, seeing ingredient availability based on their pantry inventory. They can also interact with the shopping list feature to add missing ingredients for recipes.
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/dae9ba2f-9ebe-4ffc-9702-9b0bc848c408)
 
 Meal Information
 
-Functionality: Users can enter meals/calories to generate intuitive graphs to visualize their meal data
+Functionality: This page covers logging meals, tracking calorie intake, and setting personalized calorie goals based on user-specific information like height, weight, and gender.
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/29215aa3-4f7c-4b71-b0a2-ceef25d21168)
 
 Shopping List
 
-Functionality: Users can add/remove items from their shopping list
+Functionality: Here, users can view and manage their shopping lists, which may include automatically suggested items based on recipe ingredients not in the pantry, as well as manual additions and deletions.
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/560e3edf-02f1-433c-bead-fad63012c576)
 
 User Info
 
-Functionality: Users can input information about their height, weight, and gender
+Functionality: This page manages user authentication, account creation, and storage of personal information used for personalized features within the app, ensuring a secure and tailored experience for each user.
 
 ![image](https://github.com/KaushikSriram/GreenPlate/assets/154042167/acdc2280-b13e-42fe-adac-66dd218e1d93)
 
